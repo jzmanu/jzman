@@ -1,7 +1,16 @@
+![](https://visitor-badge.glitch.me/badge?page_id=jzmanu)
 
-  <img align="left" alt="Jzman's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jzmanu&show_icons=true&hide_border=true&show_icons=true&count_private=true" />
 
-  <img align="left" alt="Jzman's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jzmanu&hide_border=true&show_icons=true&count_private=true" />
+
+![jzman's juejin](https://stats.justsong.cn/api/juejin?id=3526889030301325) ![](https://stats.justsong.cn/api/csdn?id=jzman)
+
+[![GitHub jzmanu](https://github-readme-streak-stats.herokuapp.com/?user=jzmanu)](https://git.io/streak-stats)
   
+[![jzman's GitHub stats](https://github-readme-stats.vercel.app/api?username=jzmanu)](https://github.com/anuraghazra/github-readme-stats)
+  
+![jzman's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jzmanu&layout=compact&hide_border=true&langs_count=10)
+
+
+
 
 
